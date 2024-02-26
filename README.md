@@ -16,7 +16,7 @@ comportamentos gráficos e benéficos diante do percurso percorrido pela estrutu
 resultados obtidos comprovam a utilização positiva no processo de teoria dos Controles de Três
 Termos (PID).
 
-##### Palavras-chave: controle de três termos; pid; robótica; arduino; java #
+##### Palavras-chave: controle de três termos; pid; robótica; arduino; java
 
 DESENVOLVIDO POR: RICARDO RODRIGUES DOS SANTOS 
 Engenheiro Elétrico
@@ -24,4 +24,4 @@ instagram: @ricardors91
 e-mail: 🖂 ricardoinforodri@gmail.com
 14 de Fevereiro de 2018
 
-Nas adversidades uns desistem, enquanto outros batem recordes - Ayrton Senna
+##### Nas adversidades uns desistem, enquanto outros batem recordes - Ayrton Senna
